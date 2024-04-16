@@ -1,0 +1,25 @@
+/*
+ * Theme Name:   Dhara Child
+ * Author: 	 Jason Howard
+ * Template:     dhara
+ * Version:      1.0.0
+ * */
+
+#search-login-bar-color{background-color: hsla(146, 33%, 82%, 1);}
+
+#header-titles{background-color: hsla(154, 27%, 56%, 1);}
+
+#page-content-matting{background: hsla(146, 33%, 82%, 1);}
+
+#page-footer{color: hsla(146, 14%, 23%, 1);}
+
+#footer-copyright-and-sitemap{background-color: hsla(146, 33%, 82%, 1);}
+
+#page-footer-schedule-link h2 {margin-top: 0px;}
+
+#fat-footer {
+    background-color: hsla(146, 33%, 82%, 1);
+}
+
+#home-page-content{padding: 0px 10% 30px;}
+
